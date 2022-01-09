@@ -1,9 +1,8 @@
 # Oak Frame
 
-## Oak Frame
+## Dale Wingert
+## 20??
 
-### Dale Wingert
-
-This tasteful frame encompasses a picture of Split Rock Lighthouse on Lake Superior.
+This tasteful frame encompasses a picture of (Split Rock Lighthouse)[https://en.wikipedia.org/wiki/Split_Rock_Lighthouse] on Lake Superior.
 
 On loan from the Petras Collection.
